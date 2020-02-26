@@ -1,4 +1,4 @@
-# Linkar with Excel using linkaclientCOM.dll library
+# Linkar with Excel using LinkaClientCOM.dll library
 
 This demo shows how a persistent client works with an Excel frame document and shows data in a spreadsheet.
 
